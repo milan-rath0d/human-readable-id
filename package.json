@@ -1,0 +1,15 @@
+{
+  "name": "human-readable-id",
+  "version": "1.0.0",
+  "keywords": ["human-readable", "id", "faker", "generator"],
+  "description": "Generate human-readable, user-friendly IDs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Milan Rathod",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^9.3.0"
+  }
+}
